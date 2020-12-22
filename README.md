@@ -1,3 +1,8 @@
+# Data Sources Converter 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/p3p4r/Data-Sources-Converter/blob/master/LICENSE)
+
+![](https://github.com/p3p4r/Data-Sources-Converter/blob/master/Screenshots/WhatToWatch.gif)
+
 # Introdution
 
 The aim of this project is to create an easy-to-use data converter tool able to connect to several types of data sources
